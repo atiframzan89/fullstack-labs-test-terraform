@@ -6,7 +6,7 @@ vpc = {
     private_subnet          = ["10.0.4.0/24", "10.0.5.0/24", "10.0.6.0/24" ]
 }
 customer                    = "fullstack-labs"
-environment                 = "prod"
+environment                 = "dev"
 instance-size               = "t2.micro"
 keypair                     = "uet-admin"
 profile                     = "aramzan"
